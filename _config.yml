@@ -6,18 +6,18 @@ favicon: images/favicon.ico
 name: Matheus Sousa
 title: Técnico em Manutenção e Suporte em Informatica
 email: sousamatheus994@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: www.github.com/matheus96s
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: matheus96s
+github_username:  matheus96s
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: _matheussousa96_
+linkedin_username: matheus96s
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: matheus96s
 # googleplus_username: +jekyll
 
 # About Section
@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AWS</mark> and <mark>Dormir </mark>
 
 # Projects Section
 # projects_title: Projects
