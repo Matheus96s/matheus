@@ -24,9 +24,8 @@ youtube_username: matheus96s
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Dormir </mark>
+  Olá, meu nome é Matheus Sousa e sou Tecnico em Mantenção e Suporte em Informática. Além de técnico, também tenho experiência na criação de software e aplicativos da web. Trabalhei em várias empresas, ganhando trabalho em equipe e habilidades de liderança.
+  Eu sou mais experiente em: <mark> VisualG </mark> e <mark> Dormir </mark>
 
 # Projects Section
 # projects_title: Projects
